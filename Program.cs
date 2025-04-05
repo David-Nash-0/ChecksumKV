@@ -7,8 +7,8 @@ using System.Text.Json;
 
 class Program
 {
-    private static readonly string keyVaultUrl = "https://kv-elims-1.vault.azure.net/";
-    private static readonly string keyName = "kv-elims-test";
+    private static readonly string keyVaultUrl = "https://kv-test-1.vault.azure.net/";
+    private static readonly string keyName = "kv-test-1";
 
     static void Main()
     {
